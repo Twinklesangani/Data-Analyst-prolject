@@ -1,2 +1,3 @@
-# Data-Analyst-prolject
+# Data-Analyst-project
+
 with Netflix data set  
